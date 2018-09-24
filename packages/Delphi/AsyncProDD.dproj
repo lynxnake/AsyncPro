@@ -3,7 +3,7 @@
         <ProjectGuid>{5FDF4174-5B5D-4D98-9C7C-AE1E72A512A8}</ProjectGuid>
         <MainSource>AsyncProDD.dpk</MainSource>
         <Base>True</Base>
-        <Config Condition="'$(Config)'==''">Release</Config>
+        <Config Condition="'$(Config)'==''">Debug</Config>
         <TargetedPlatforms>1</TargetedPlatforms>
         <AppType>Package</AppType>
         <FrameworkType>None</FrameworkType>
