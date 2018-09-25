@@ -67,3 +67,4 @@ __recovery/
 
 #Output folders
 /source/hpp
+/packages/Delphi/*.res
